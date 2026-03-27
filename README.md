@@ -69,6 +69,8 @@
 
 ```bash
 # Clone
+
+[![Follow @DeadManAI](https://img.shields.io/badge/Follow-@DeadManAI-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DeadManAI)
 git clone https://github.com/stoa-platform/stoa.git
 cd stoa/deploy/docker-compose
 
@@ -249,3 +251,8 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <p align="center">
   <em>Built by <a href="https://cabingenierie.com">CAB Ingenierie</a> — Bordeaux, France</em>
 </p>
+
+
+---
+
+Built by [@DeadManAI](https://x.com/DeadManAI) — Army vet. AI builder. Founder of Dead Empire.
