@@ -1,3 +1,5 @@
+> This repository is derived from upstream work by [stoa-platform/stoa](https://github.com/stoa-platform/stoa). Original authorship and core project ownership remain upstream unless explicitly noted otherwise here.
+
 <p align="center">
   <strong>STOA Platform</strong><br>
   The European Agent Gateway<br>
@@ -252,7 +254,3 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
   <em>Built by <a href="https://cabingenierie.com">CAB Ingenierie</a> — Bordeaux, France</em>
 </p>
 
-
----
-
-Built by [@DeadManAI](https://x.com/DeadManAI) — Army vet. AI builder. Founder of Dead Empire.
